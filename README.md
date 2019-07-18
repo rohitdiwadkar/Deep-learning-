@@ -1,4 +1,4 @@
-# Deep-learning- Classification on the accessibilty of product if the product is subscribed or not.
+# Deep-learning- Classification on whether the product by bank is subscribed or not.
 
 This assignment is about classification of labels using deep learning. In Deep learning we use lots of python library for the above objective , for example : tensorflow or keras.
 
