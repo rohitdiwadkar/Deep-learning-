@@ -1,6 +1,6 @@
 # Deep-learning- Classification on whether the product by bank is subscribed or not.
 
-This assignment is about classification of labels using deep learning. In Deep learning we use lots of python library for the above objective , for example : tensorflow or keras.
+This projec is about classification of labels using deep learning. In Deep learning we use lots of python library for the above objective , for example : tensorflow or keras.
 
 I used keras for implementation of deep learning on bank marketing data. In this we used sequential model of keras.
 
@@ -57,7 +57,7 @@ Conclusion:
 
 Deep Learning is very important part of machine learning and artificial intelligence which specially used in software agents and machines are made to ascertain the ideal output in a specific deep network with the aim of maximizing its performance.
 
-From this assignments I learned alot and faced lot of challenges:
+From this project I learned alot and faced lot of challenges:
 
 The number of network confused alot to which there was some errors arised while designing the model and the data given as input.
 
